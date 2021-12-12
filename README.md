@@ -38,7 +38,7 @@ I want to finish this damn sat
 2.Changes the data structure stored clauses -> set (which is faster to query)  
 3.Using copy.deepcopy to avoid memory leak
 
-####improvement direction:  
+#### improvement direction:  
 1. using func plain_text() in process()
 2. using cpp to be faster
 #### dependency
