@@ -41,6 +41,7 @@ I want to finish this damn sat
 #### improvement direction:  
 1. using func plain_text() in process()
 2. using cpp to be faster
+3. using cProfile to analysis performance
 #### dependency
 1. python version >= 3.8  
 
