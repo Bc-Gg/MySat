@@ -1,7 +1,7 @@
 # MY SAT TOOLS KIT
 #### license : MIT license   
 #### author：0764lbc
-##version --0.01
+## version --0.01
 1.add main.py func.py object.py   
 2.capable for read a clause and store it as a class  
 3.And it could resolve unitary clause for maximal time   
