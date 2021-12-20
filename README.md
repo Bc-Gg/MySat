@@ -1,6 +1,11 @@
 # MY SAT TOOLS KIT
 #### license : MIT license   
 #### author：0764lbc
+
+## Quick Start
+1. make sure that you have installed Python and one kind of Python IDE 
+2. open main.py and run 
+
 ## version --0.01
 1.add main.py func.py object.py   
 2.capable for read a clause and store it as a class  
