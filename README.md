@@ -5,6 +5,7 @@
 ## Quick Start
 1. make sure that you have installed Python and one kind of Python IDE 
 2. open main.py and run 
+PS : how to interact with Python? ----> [bilibili](https://search.bilibili.com/all?keyword=python%20%E7%8E%AF%E5%A2%83&from_source=webtop_search&spm_id_from=333.851)
 
 ## version --0.01
 1.add main.py func.py object.py   
